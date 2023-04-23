@@ -33,10 +33,10 @@
             "iron_source_key": "198419b25",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
-            "cover": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/1.jpg",
-            "covercalla": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/2.jpg",
-            "covercallz": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/3.jpg",
-            "covercalle": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/4.jpg",
+            "cover": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/5.jpg",
+            "covercalla": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/4.jpg",
+            "covercallz": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/2.jpg",
+            "covercalle": "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/3.jpg",
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -237,26 +237,26 @@
     
     "games" : [
         {
-            "name" : "CHAPTER 3",
-            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/5.jpg",
+            "name" : "GARTEN 3",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/3.jpg",
             "link" : "https://html5.gamemonetize.co/ntaoxztdx6j8p6fz4dh6exdyeth9y1jx/",
             "cat" : "Overall",
             "orientation" : "0"
         },{
-            "name" : "CHAPTER 2",
-            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/1.jpg",
+            "name" : "GARTEN 2",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/4.jpg",
             "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "CHAPTER 1",
-            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/7.jpg",
+            "name" : "GARTEN 1",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/6.jpg",
             "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
-            "name" : "CHAPTER 0",
-            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/9.jpg",
+            "name" : "GARTEN 0",
+            "ico" : "https://raw.githubusercontent.com/alfatd/Garten-Chef-Pigster-banban-3/main/Nouveau%20dossier/4.jpg",
             "link" : "https://www.agame.com/game/poppy-huggie-escape",
             "cat" : "Arcade",
             "orientation" : "0"
